@@ -1,0 +1,31 @@
+.block_assessmentpath_progression .content .grouping {
+	margin: 1ex 0;
+	border-top: solid 1px;
+	padding-top: 1ex;
+}
+.block_assessmentpath_progression .content .grouping:first-child {
+	margin: 0;
+	border-top: none;
+	padding-top: 0;
+}
+.block_assessmentpath_progression .content table.progressbar_container {
+	width: 100%;
+	margin: 0;
+}
+.block_assessmentpath_progression .content div.bar {
+	height: 10px;
+	border: solid 1px #666;
+	cursor:  pointer;
+}
+.block_assessmentpath_progression .content div.progress {
+	height: 10px;
+	background-color: #85C440;
+    background-image: none;
+    margin-bottom: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+.block_assessmentpath_progression .content td.percent {
+	width: 7ex;
+}
+
