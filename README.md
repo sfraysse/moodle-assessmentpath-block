@@ -5,7 +5,9 @@
 
 Vous êtes sur la page de la **version 3.4.0** du plugin Bloc Assessment Path, dernière version compatible avec **Moodle 3.4**.
 
-Ce plugin n'existe pas encore pour les versions plus récentes de Moodle.
+Ce plugin existe aussi pour les versions suivantes de Moodle :
+- **Moodle 3.5** : [Bloc AssessmentPath 3.5](https://github.com/sfraysse/moodle-assessmentpath-block/tree/3.5)
+- **Moodle 3.6** : [Bloc AssessmentPath 3.6](https://github.com/sfraysse/moodle-assessmentpath-block/tree/3.6)
 
 
 # Installation
