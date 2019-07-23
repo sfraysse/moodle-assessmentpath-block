@@ -21,4 +21,5 @@
 $string['pluginname'] = 'Bloc progression Assessment Path';
 $string['assessmentpath_progression:addinstance'] = 'Ajouter un nouveau bloc de progression Assessment Path';
 
-?>
+// Privacy
+$string['privacy:metadata'] = 'Le plugin AssessmentPath Block ne conserve aucune donnée personnelle.';
