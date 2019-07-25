@@ -20,7 +20,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2018050800;                            // The current module version (Date: YYYYMMDDXX).
-$plugin->requires  = 2018050800;                            // Requires this Moodle version.
+$plugin->version   = 2018112800;                            // The current module version (Date: YYYYMMDDXX).
+$plugin->requires  = 2018112800;                            // Requires this Moodle version.
 $plugin->component = 'block_assessmentpath_progression';    // Full name of the plugin (used for diagnostics)
 
